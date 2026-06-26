@@ -96,7 +96,7 @@ The **Support Vector Classifier** achieved the best accuracy in this experiment.
 ## Screenshots
 
 ### project outputs
-![each step outputs](assets/presentation-images-contact-sheet.png)
+![presentation images contact sheet](assets/presentation-images-contact-sheet.png)
 ### Input Review Demo
 ![Input Review Demo](assets/input-review-demo.png)
 
